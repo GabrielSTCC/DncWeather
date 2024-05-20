@@ -15,6 +15,7 @@ Bem-vindo ao repositório do DncWeather, uma aplicação web que permite aos usu
 ## Visão Geral
 
 DncWeather é uma aplicação web simples que utiliza APIs externas para fornecer informações de previsão do tempo e detalhes de endereço com base no CEP (Código de Endereçamento Postal). O layout é construído utilizando HTML, CSS (com Bootstrap) e JavaScript.
+
 Link do site disponibilizado: https://dnc-weather-rho.vercel.app
 
 ## Tecnologias Utilizadas
