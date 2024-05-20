@@ -1,0 +1,11 @@
+.custom{
+    box-shadow: 0 7px 6px rgba(8, 86, 253, 0.363);
+
+}
+
+.centralizar {
+    text-align: center; /* Centraliza o texto dentro do input */
+    width: 100%; /* Ajuste conforme necessário */
+    padding: 10px; /* Opcional: melhora a aparência */
+    font-size: 34px; /* Opcional: aumenta o tamanho da fonte */
+  }
